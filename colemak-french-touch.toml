@@ -1,25 +1,25 @@
-name        = "Colemak French Touch"
-name8       = "colemkft"
+name        = "Colemak DH French Touch"
+name8       = "cdhft"
 locale      = "fr"
-variant     = "colemkft"
-description = "French (Colemak French Touch)"
-author      = "Cedric Rossi"
-url         = "https://github.com/cedricr/colemak-french-touch"
+variant     = "cdhft"
+description = "French (Colemak DH French Touch)"
+author      = "Steeve Lefort"
+url         = "https://github.com/steevelefort/colemak-dh-french-touch"
 geometry    = "ERGO"
-version     = "0.4"
+version     = "0.1"
 
 base = '''
 ╭╌╌╌╌╌┰─────┬─────┬─────┬─────┬─────┰─────┬─────┬─────┬─────┬─────┰╌╌╌╌╌┬╌╌╌╌╌╮
 ┆ ~   ┃ € ‚ │ « ‘ │ » ’ │ $   │ %   ┃ ^   │ &   │ *   │ #   │ @   ┃ _ – ┆ + ± ┆
 ┆ `   ┃ 1 „ │ 2 “ │ 3 ” │ 4 ¢ │ 5 ‰ ┃ 6   │ 7   │ 8 § │ 9 ¶ │ 0 ° ┃ / ÷ ┆ = ≠ ┆
 ╰╌╌╌╌╌╂─────┼─────┼─────┼─────┼─────╂─────┼─────┼─────┼─────┼─────╂╌╌╌╌╌┼╌╌╌╌╌┤
-·     ┃ Q   │ W   │ F   │ P   │ G   ┃ J   │ L   │ O   │ ! ¡ │ Y   ┃ {   ┆ }   ┆
+·     ┃ Q   │ W   │ F   │ P   │ B   ┃ J   │ L   │ O   │ ! ¡ │ Y   ┃ {   ┆ }   ┆
 ·     ┃     │     │   à │   ù │     ┃   µ │   œ │   ô │***¨ │   î ┃ [   ┆ ]   ┆
 ·     ┠─────┼─────┼─────┼─────┼─────╂─────┼─────┼─────┼─────┼─────╂╌╌╌╌╌┼╌╌╌╌╌┤
-·     ┃ A   │ R   │ S   │ T   │ D _ ┃ M   │ N   │ E   │ I   │ U   ┃ "   ┆ |   ┆
+·     ┃ A   │ R   │ S   │ T   │ G _ ┃ M   │ N   │ E   │ I   │ U   ┃ "   ┆ |   ┆
 ·     ┃   â │   é │   è │     │   _ ┃   ( │   ) │   ê │   ï │   û ┃ '   ┆ \   ┆
 ╭╌╌╌╌╌╂─────┼─────┼─────┼─────┼─────╂─────┼─────┼─────┼─────┼─────╂╌╌╌╌╌┴╌╌╌╌╌╯
-┆ >   ┃ Z   │ X   │ C   │ V   │ B   ┃ K   │ H   │ ? ¿ │ ; • │ :   ┃           ·
+┆ >   ┃ Z   │ X   │ C   │ D   │ V   ┃ K   │ H   │ ? ¿ │ ; • │ :   ┃           ·
 ┆ <   ┃   æ │   ß │   ç │   – │   — ┃   ñ │  *µ │ - ‑ │ , · │ . … ┃           ·
 ╰╌╌╌╌╌┸─────┴─────┴─────┴─────┴─────┸─────┴─────┴─────┴─────┴─────┚ · · · · · ·
 '''

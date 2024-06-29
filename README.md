@@ -1,11 +1,13 @@
 # Colemak French Touch
 
-Une adaptation de la disposition de clavier Colemak pour le français.
+Une adaptation de la disposition de clavier Colemak DH pour le français.
+
+Ceci est une version modifiée de Colemak French Touch [https://github.com/cedricr/colemak-french-touch]
 
 
 ## TL;DR;
 
-- une disposition de clavier adaptée du Colemak, optimisée pour le français, l’anglais et la programmation
+- une disposition de clavier adaptée du Colemak DH, optimisée pour le français, l’anglais et la programmation
 - la plupart des raccourcis habituels sont préservés
 - une touche morte (la « french touch », ou « 1dk ») est utilisée pour accéder aux caractères accentués et aux caractères typographiques nécessaires à l’écriture du français (en vert)
 - les symboles de programmation sont accessibles sur la couche AltGr (en bleu)
